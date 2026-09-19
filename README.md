@@ -174,7 +174,7 @@ Image-Captioning-with-Vanilla-RNNs-on-MS-COCO
 ### Clone Repository
 
 ```bash
-git clone https://github.com/farzadjannati/Image-Captioning-with-Vanilla-RNNs-on-MS-COCO.git
+git clone https://github.com/ParmidaGh/Image-Captioning-with-Vanilla-RNNs-on-MS-COCO.git
 
 cd Image-Captioning-with-Vanilla-RNNs-on-MS-COCO
 ```
